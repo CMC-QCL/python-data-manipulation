@@ -1,7 +1,7 @@
 # Data Manipulation with Python
 
-Welcome to the QCL Workshop **Data Manipulation with Python**.
-
+Welcome to the QCL Workshop **Data Manipulation with Python**.  
+ 
 By the end of this workshop you will be able to: 
 
 * Import and export data
